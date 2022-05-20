@@ -1,7 +1,7 @@
 # TodoApp
 ## YAZ18306 Mobil Uygulama Geliştirme Dersi Kısa Sınav 2 Ödevi
 
-### Oyunu Geliştirenler
+### Uygulamanı Geliştirenler
 1170505602 - Jora Allaberdiyev
 
 1180505607 - Sabina Jumayeva
